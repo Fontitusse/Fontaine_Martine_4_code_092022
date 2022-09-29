@@ -29,10 +29,6 @@ nav {
     display: block;
 }
 
-a {
-    color:#ffffff!important;
-}
-
 a:active,
 a:hover {
     outline: 0;
@@ -259,6 +255,10 @@ ul {
 .footer_title {
     font-size: 100%;
     color: #ffffff!important;
+}
+
+footer a {
+    color:#ffffff!important;
 }
 
 
