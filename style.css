@@ -718,7 +718,14 @@ p {
 }
 
 .social {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
     margin: 10px;
+}
+
+.col-sm-6 {
+    margin-top: 2em;
 }
 
 h2 {
