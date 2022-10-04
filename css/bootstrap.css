@@ -7833,12 +7833,7 @@ button.close {
     position: fixed
 }
 
-@-webkit-viewport{
-    width: device-width;
-}
-@-moz-viewport{
-    width: device-width;
-}
+
 @-ms-viewport{
     width: device-width;
 }
